@@ -92,3 +92,13 @@ PRs are welcome 🙂
 If you find any issue just put it in the issue section
 
 Try to follow PEP 8 guidelines and add comments!! 
+
+
+For installing PyAudio:
+
+pip install pipwin
+
+then, pipwin install pyaudio
+
+for ecapture error
+pip install ecapture==0.0.7
